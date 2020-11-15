@@ -17,7 +17,7 @@ public class LoginIn extends HttpServlet {
         String name = req.getParameter("name");
         String password = req.getParameter("password");
         if (name.equals("zyz") && password.equals("123")) {
-            req.setAttribute("name", "zyz");
+            req.setAttribute("name", "zyz1");
             req.getRequestDispatcher("admin.jsp").forward(req, resp);
         } else {
             req.setAttribute("result", "账户或密码错误");
