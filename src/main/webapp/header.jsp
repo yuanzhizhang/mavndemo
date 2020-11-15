@@ -3,7 +3,7 @@
 <div style="text-align: center;">
     <h2>include指令示例</h2>
     <p>
-        <a href="index.jsp">首页</a> | <a href="header.jsp">页头</a> | <a href="footer.jsp">页尾</a> | <a href="login.jsp">登录 </a>
+        <a href="index.jsp">首页</a> | <a href="header.jsp">页头</a> | <a href="footer.jsp">页尾</a> | <a href="login.jsp">登录</a>
     </p>
 </div>
 
